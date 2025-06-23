@@ -1,14 +1,16 @@
 {
+  "version": 2,
   "builds": [
     {
-      "src": "pubspec.yaml",
-      "use": "@jns/flutter-hosting-vercel"
+      "src": "vercel-build.sh",
+      "use": "@vercel/static-build",
+      "config": {
+        "outputDirectory": "build/web"
+      }
     }
   ],
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "/index.html" }
   ]
 }
