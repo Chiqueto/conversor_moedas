@@ -54,7 +54,7 @@ Você pode testar a aplicação diretamente no seu navegador através do link ab
 **Passos:**
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/Chiqueto/conversor_moedas.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
