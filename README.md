@@ -32,7 +32,7 @@ Este projeto foi desenvolvido como requisito para a disciplina de **[Nome da Dis
 
 Assista a um vídeo rápido mostrando o aplicativo em funcionamento.
 
-➡️ ****[iPhone-13-PRO-conversor-moedas-lovat-zeta.vercel.app-ggtoulfswie1a7.webm](https://github.com/user-attachments/assets/32e1e789-63bf-4dbc-8299-e9153a95f466)
+➡️ **[iPhone-13-PRO-conversor-moedas-lovat-zeta.vercel.app-ggtoulfswie1a7.webm](https://github.com/user-attachments/assets/32e1e789-63bf-4dbc-8299-e9153a95f466)**
 
 
 ---
@@ -42,6 +42,32 @@ Assista a um vídeo rápido mostrando o aplicativo em funcionamento.
 Você pode testar a aplicação diretamente no seu navegador através do link abaixo:
 
 ➡️ **https://conversor-moedas-lovat-zeta.vercel.app/**
+
+---
+
+### 🔧 Como Executar o Projeto Localmente
+
+**Pré-requisitos:**
+* Ter o [Flutter](https://docs.flutter.dev/get-started/install) na versão 3.x.x ou superior instalado.
+* Um editor de código como [VS Code](https://code.visualstudio.com/) ou [Android Studio](https://developer.android.com/studio).
+
+**Passos:**
+1.  Clone este repositório:
+    ```bash
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    ```
+2.  Navegue até o diretório do projeto:
+    ```bash
+    cd nome-do-repositorio
+    ```
+3.  Instale as dependências:
+    ```bash
+    flutter pub get
+    ```
+4.  Execute a aplicação:
+    ```bash
+    flutter run
+    ```
 
 ---
 
