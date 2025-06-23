@@ -25,15 +25,15 @@ Este projeto foi desenvolvido como requisito para a disciplina de **[Nome da Dis
 * **[http](https://pub.dev/packages/http):** Pacote para realizar as requisições à API.
 * **[Frankfurter API](https://www.frankfurter.app/docs/):** API gratuita para cotação de moedas.
 * **[GitHub](https://github.com):** Para versionamento do código.
-* **[GitHub Pages](https://pages.github.com/):** Para deploy da versão web.
-
+  
 ---
 
 ### 🎬 Vídeo de Demonstração
 
 Assista a um vídeo rápido mostrando o aplicativo em funcionamento.
 
-➡️ **[Link para o seu vídeo no YouTube ou Loom]**
+➡️ ****[iPhone-13-PRO-conversor-moedas-lovat-zeta.vercel.app-ggtoulfswie1a7.webm](https://github.com/user-attachments/assets/32e1e789-63bf-4dbc-8299-e9153a95f466)
+
 
 ---
 
@@ -41,10 +41,7 @@ Assista a um vídeo rápido mostrando o aplicativo em funcionamento.
 
 Você pode testar a aplicação diretamente no seu navegador através do link abaixo:
 
-➡️ **[Link para a sua aplicação no GitHub Pages, Vercel ou Netlify]**
+➡️ **https://conversor-moedas-lovat-zeta.vercel.app/**
 
 ---
 
-### 📂 Estrutura do Projeto
-
-O projeto foi organizado em uma estrutura de pastas clara para facilitar a manutenção e escalabilidade:
